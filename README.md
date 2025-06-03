@@ -44,7 +44,7 @@ Here are some of the projects I’ve worked on. More coming soon!
 ## 📫 Contact Me
 
 - 📧 Email: [kit27.am37@gmail.com]
-- 🌐 Portfolio Website: [your-portfolio-link]
+- 🌐 Portfolio Website: [https://pradeepan1.github.io/portfolio/]
 - 🐦 LinkedIn: [pradeepan1]
 
 ---
