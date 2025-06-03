@@ -53,7 +53,7 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ## 📈 GitHub Stats
 
-![Pradeepan's GitHub Stats](https://github-readme-stats.vercel.app/api?pradeepan1=pradeepan1&show_icons=true&theme=radical)
+![Pradeepan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepan1&show_icons=true&theme=radical)
 
 ---
 
