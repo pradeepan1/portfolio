@@ -7,7 +7,7 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 ## 🚀 About Me
 
 - 🎓 Student at **KIT - Kalaignar Karunanidhi Institute of Technology**, CSE (AI & ML)
-- 🤖 Interested in AI, ML, and Full Stack Development
+- 🤖 Interested in AI, ML,  Data Science, Prompt Engineeing, Data Analytics and Full Stack Development
 - 🧠 Lifelong learner passionate about problem-solving and smart applications
 - 🌐 Completed **Google UX Design** & **AWS Cloud Technical Essentials** certification
 - 🛠️ Building smart, scalable, and efficient applications
@@ -18,8 +18,11 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 Here are some of the projects I’ve worked on. More coming soon!
 
 ### 🔍 AI/ML Projects
-- **[Project Name]** – Short description (e.g., "A machine learning model to predict housing prices using scikit-learn")
-- **[Project Name]** – Short description
+- **[Chatbot using nlp]** – Short description : This project involves developing a chatbot using Natural Language Processing (NLP) techniques to understand and respond to user queries in a human-like manner. The chatbot can interpret user input, process natural language, and provide relevant and context-aware replies. It can be used for customer support, information retrieval, or interactive assistance. Key technologies include text preprocessing, intent recognition, and response generation using NLP libraries such as NLTK or spaCy.
+- **[Medical diagonosis using AI]** – Short description : This project focuses on developing an AI-based medical diagnosis system that assists in identifying diseases based on patient symptoms and medical data. Using machine learning algorithms and healthcare datasets, the system can predict possible conditions, suggest treatments, and support doctors in decision-making. It enhances accuracy, reduces diagnosis time, and improves overall healthcare efficiency
+
+
+
 
 ### 🌐 Web Development
 - **[Portfolio Website]** – Personal portfolio using React and Tailwind CSS
