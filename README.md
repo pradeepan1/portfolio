@@ -11,8 +11,6 @@ Welcome to my GitHub Portfolio! I’m **Pradeepan**, a passionate Computer Scien
 - 🧠 Lifelong learner passionate about problem-solving and smart applications
 - 🌐 Completed **Google UX Design** & **AWS Cloud Technical Essentials** certification
 - 🛠️ Building smart, scalable, and efficient applications
-- 📍 Room No: S12 (Hostel)
-
 ---
 
 ## 📂 Projects
@@ -36,7 +34,7 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, java, c programing, JavaScript, C++
 - **Frameworks/Libraries**: TensorFlow, scikit-learn, React.js, Node.js
 - **Tools**: Git, VS Code, Figma, Postman
 - **Platforms**: AWS, GitHub, Google Cloud
@@ -45,9 +43,9 @@ Here are some of the projects I’ve worked on. More coming soon!
 
 ## 📫 Contact Me
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [kit27.am37@gmail.com]
 - 🌐 Portfolio Website: [your-portfolio-link]
-- 🐦 Twitter/LinkedIn: [@yourhandle]
+- 🐦 LinkedIn: [pradeepan1]
 
 ---
 
